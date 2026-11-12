@@ -1,0 +1,16 @@
+#pokemon-card {
+  overflow: hidden;
+}
+#pokemon-img {
+  width: 100%;
+  max-width: 250px;
+  margin: 0 auto;
+  image-rendering: pixelated;
+}
+#pokemon-tipos .badge {
+  font-size: 0.9rem;
+  padding: 0.5em 0.9em;
+}
+#mensagem .alert {
+  margin-bottom: 0;
+}
